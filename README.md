@@ -4,13 +4,13 @@
 This command-line prompt will generate a professional README.md file for a user.
 ***
 ## **Table of Contents**
-1. Installation
-2. Usage
-3. Screenshot
-4. Features
-5. License
-6. Contributing
-7. Questions
+1. [Installation](Installation)
+2. [Usage](Usage)
+3. [Screenshot](Screenshot)
+4. [Features](Features)
+5. [License](License)
+6. [Contributors](Contributors)
+7. [Questions](Questions)
 ***
 ## **Installation**<br/>
 Install NPM, Inquirer, and fs
@@ -35,7 +35,7 @@ GNU<br/>
 Eclipse<br/>
 Boost
 ***
-## **Contributing**<br/>
+## **Contributors**<br/>
 Michele Lee Lynch
 ***
 ## **Questions**
