@@ -5,14 +5,14 @@ This command-line prompt will generate a professional README.md file for a user.
 
 ***
 
-### **Table of Contents**
-1. [Installation](Installation)
-2. [Usage](Usage)
-3. [Screenshot](Screenshot)
-4. [Features](Features)
-5. [License](License)
-6. [Contributors](Contributors)
-7. [Questions](Questions)  
+### Table of Contents  
+1. [Installation](https://github.com/MLLynch2K/readme-generator#installation)
+2. [Usage](https://github.com/MLLynch2K/readme-generator#usage)
+3. [Screenshot](https://github.com/MLLynch2K/readme-generator#screenshot)
+4. [Features](https://github.com/MLLynch2K/readme-generator#features)
+5. [License](https://github.com/MLLynch2K/readme-generator#licenses)
+6. [Contributors](https://github.com/MLLynch2K/readme-generator#contributors)
+7. [Questions](https://github.com/MLLynch2K/readme-generator#questions)  
 
 ***
 
