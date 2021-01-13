@@ -12,30 +12,30 @@ This project will generate a professional README.md file for an end-user.
 6. Contributing
 7. Questions
 ***
-**Installation**
+**Installation**<br/>
 Install npm (Inquirer and fs)
 ***
-**Usage**
+**Usage**<br/>
 Answer the questions prompted to create a professional README.md file. Run 'node index.js' to start the program. User will be prompted with questions.
 ***
 **Screenshot**
 ![Example ReadMe] ()
 ***
-**Features**
-JavaScript
-NPM
-Node.js
-Inquirer
+**Features**<br/>
+JavaScript<br/>
+NPM<br/>
+Node.js<br/>
+Inquirer<br/>
 fs
 ***
-**Licenses**
-MIT
-Apache
-GNU
-Eclipse
+**Licenses**<br/>
+MIT<br/>
+Apache<br/>
+GNU<br/>
+Eclipse<br/>
 Boost
 ***
-**Contributing**
+**Contributing**<br/>
 Michele Lee Lynch
 ***
 **Questions**
