@@ -21,7 +21,7 @@ Answer the questions prompted to create a professional README.md file. Run 'node
 ## **Screenshot**
 ![Example ReadMe] ()
 ***
-## **Features**<br/>
+## **Features**  <br>
 JavaScript<br/>
 NPM<br/>
 Node.js<br/>
