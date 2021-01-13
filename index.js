@@ -88,3 +88,17 @@ const writeToFile = pageMD => {
             });
         });
     };
+
+    questions()
+    .then(data => {
+        return generateMarkdown(data);
+    })
+    .then(pageMD => {
+       return writeToFile(pageMD)
+    })
+    .then(writefileResponse => {
+        console.log(writefileResponse.message)
+    })
+    .catch(err => {
+    console.log(err);
+    });

@@ -1,19 +1,54 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+const generateList = commalist => {
+  listarray = commalist.split(",")
+  listarray = listarray.map(listitem => "* " + listitem)
+  return listarray.join("  \n")
+}
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
+const generatebadges = BadgeArr => {
+    BadgeArr = BadgeArr.map(itemBadge => {
+      if (itemBadge !== "None") {
+        return "![License](https://img.shields.io/static/v1?label=License&message=" + itemBadge + "&color=BLUE)"
+      }
+    })
+    return BadgeArr.join(" ")
+}
+  
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
+const generateObjectList = objectLicense => {
+  objectLicense = objectLicense.map(itemLicense => "* " + itemLicense)
+  return objectLicense.join("  \n")
+}
 
-// TODO: Create a function to generate markdown for README
+
+// function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
-
+  const {title, description, installation, usage, licenses, contributors, tests, username, email} = data
+  return `
+${generatebadges(licenses)}
+# ${title}
+## Description
+${description}
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+## Installation
+${installation}
+## Usage
+${usage}
+## Licenses
+${generateObjectList(licenses)}
+## Contributing
+${generateList(contributors)}
+## Tests
+${tests}
+## Questions
+Contact information for questions:  \n
+Github: [${username}](https://www.github.com/${username})  \n
+Email: ${email}
 `;
 }
 

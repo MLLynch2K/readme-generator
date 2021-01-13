@@ -1,22 +1,15 @@
 {
-  "name": "readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "A command-line application that generators a README.md file from user's input.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michele Lee Lynch",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.5.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MLLynch2K/readme-generator.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MLLynch2K/readme-generator/issues"
-  },
-  "homepage": "https://github.com/MLLynch2K/readme-generator#readme"
+    "inquirer": "^6.5.2",
+    "path": "^0.12.7"
+  }
 }
