@@ -1,46 +1,60 @@
 # README Generator
 
-**Description**  <br>
+## Description   
 This command-line prompt will generate a professional README.md file for a user.
+
 ***
-## **Table of Contents**
-1. [Installation](**Installation**)
-2. [Usage](**Usage**)
-3. [Screenshot](**Screenshot**)
-4. [Features](**Features**)
-5. [License](**License**)
-6. [Contributors](**Contributors**)
-7. [Questions](**Questions**)
+
+### **Table of Contents**
+1. [Installation](Installation)
+2. [Usage](Usage)
+3. [Screenshot](Screenshot)
+4. [Features](Features)
+5. [License](License)
+6. [Contributors](Contributors)
+7. [Questions](Questions)  
+
 ***
-## **Installation**  <br>
+
+### Installation 
 Install NPM, Inquirer, and fs
+
 ***
-## **Usage**  <br>
+
+### Usage
 Answer the questions prompted to create a professional README.md file. Run 'node index.js' to start the program. User will be prompted with questions.
+
 ***
-## **Screenshot**  <br>
+
+### Screenshot  
 ![Example ReadMe] ()
 
 ***
 
-## **Features**  <br>
+### Features  
 JavaScript  
-NPM  <br>
-Node.js  <br>
-Inquirer  <br>
+NPM  
+Node.js  
+Inquirer  
 fs
+
 ***
-## **Licenses**  <br>
-MIT  <br>
-Apache  <br>
-GNU  <br>
-Eclipse  <br>
+
+### Licenses   
+MIT  
+Apache  
+GNU  
+Eclipse  
 Boost
+
 ***
-## **Contributors**  <br>
+
+### Contributors  
 Michele Lee Lynch
+
 ***
-## **Questions**  <br>
-Contact information for questions:  <br>
-Github: MLLynch2K  <br>
+
+### Questions  
+Contact information for questions:  
+Github: MLLynch2K  
 Email: michele.lynch8@yahoo.com
