@@ -1,9 +1,9 @@
 # README Generator
 
-**##Description**
+**Description**
 This project will generate a professional README.md file for an end-user.
-
-**##Table of Contents**
+***
+**Table of Contents**
 1. Installation
 2. Usage
 3. Screenshot
@@ -11,34 +11,34 @@ This project will generate a professional README.md file for an end-user.
 5. License
 6. Contributing
 7. Questions
-
-**##Installation**
+***
+**Installation**
 Install npm (Inquirer and fs)
-
-**##Usage**
+***
+**Usage**
 Answer the questions prompted to create a professional README.md file. Run 'node index.js' to start the program. User will be prompted with questions.
-
-**##Screenshot**
+***
+**Screenshot**
 ![Example ReadMe] ()
-
-**##Features**
+***
+**Features**
 JavaScript
 NPM
 Node.js
 Inquirer
 fs
-
-**##Licenses**
+***
+**Licenses**
 MIT
 Apache
 GNU
 Eclipse
 Boost
-
-**##Contributing**
+***
+**Contributing**
 Michele Lee Lynch
-
-**##uestions**
-Contact information for questions:
-Github: MLLynch2K
+***
+**Questions**
+Contact information for questions:<br/>
+Github: MLLynch2K<br/>
 Email: michele.lynch8@yahoo.com
