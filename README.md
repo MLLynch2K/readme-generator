@@ -1,6 +1,6 @@
 # README Generator
 
-**Description**<br/>
+**Description**  <br>
 This command-line prompt will generate a professional README.md file for a user.
 ***
 ## **Table of Contents**
@@ -12,33 +12,35 @@ This command-line prompt will generate a professional README.md file for a user.
 6. [Contributors](**Contributors**)
 7. [Questions](**Questions**)
 ***
-## **Installation**<br/>
+## **Installation**  <br>
 Install NPM, Inquirer, and fs
 ***
-## **Usage**<br/>
+## **Usage**  <br>
 Answer the questions prompted to create a professional README.md file. Run 'node index.js' to start the program. User will be prompted with questions.
 ***
-## **Screenshot**
+## **Screenshot**  <br>
 ![Example ReadMe] ()
+
 ***
+
 ## **Features**  <br>
-JavaScript<br/>
-NPM<br/>
-Node.js<br/>
-Inquirer<br/>
+JavaScript  
+NPM  <br>
+Node.js  <br>
+Inquirer  <br>
 fs
 ***
-## **Licenses**<br/>
-MIT<br/>
-Apache<br/>
-GNU<br/>
-Eclipse<br/>
+## **Licenses**  <br>
+MIT  <br>
+Apache  <br>
+GNU  <br>
+Eclipse  <br>
 Boost
 ***
-## **Contributors**<br/>
+## **Contributors**  <br>
 Michele Lee Lynch
 ***
-## **Questions**
-Contact information for questions:<br/>
-Github: MLLynch2K<br/>
+## **Questions**  <br>
+Contact information for questions:  <br>
+Github: MLLynch2K  <br>
 Email: michele.lynch8@yahoo.com
