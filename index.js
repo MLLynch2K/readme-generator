@@ -72,3 +72,19 @@ const questions = () => {
     ])
 
 };
+
+// function to write README file
+const writeToFile = pageMD => {
+    return new Promise((resolve, reject) => {
+        fs.writeFile('./dist/README.md', pageMD, err => {
+            if (err) {
+                reject(err);
+                return;
+              }
+              resolve({
+                  ok: true,
+                  message: 'ReadMe Created'
+                });
+            });
+        });
+    };
