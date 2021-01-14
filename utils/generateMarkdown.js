@@ -13,12 +13,10 @@ const generatebadges = BadgeArr => {
     return BadgeArr.join(" ")
 }
   
-
 const generateObjectList = objectLicense => {
   objectLicense = objectLicense.map(itemLicense => "* " + itemLicense)
   return objectLicense.join("  \n")
 }
-
 
 // function to generate markdown for README
 function generateMarkdown(data) {
