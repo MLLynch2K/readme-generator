@@ -23,7 +23,7 @@ Answer the questions prompted to create a professional README.md file. Run 'node
 
 ***
 ### Screenshot  
-![Example ReadMe] ()
+![Example Generated ReadMe from Application] (./images/sample-generated-readme.png "Readme")
 
 ***
 ### Features  
